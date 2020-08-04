@@ -1,5 +1,5 @@
 <h1 align=center>
-<img src="linkimage" />
+<img src="https://raw.githubusercontent.com/GuilhermeGabriel/nlw-ecoleta/master/Images/ecoleta.png" />
 </h1>
 
 <div align="center">
