@@ -12,8 +12,6 @@ Ecoleta é um projeto desenvolvido na semana Next Level Week (1.0) da rocketseat
 
 </h3>
 
-![Banner]()
-
 ## OBJETIVO
 
 O projeto tem como finalidade conectar empresas e/ou entidades que coletam resíduos (orgânicos e inorgânicos) às pessoas e/ou entidades que necessitam constantemente descartar esses resíduos. Solucionando o problema de descarte de lixo.
